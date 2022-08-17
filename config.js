@@ -30,7 +30,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 100
 }
-global.gambar = 'https://telegra.ph/file/7858fc96fffda74b3ab44.jpg' //disini gambar bot nya lu bisa ganti pink gambar ini dengan link gambar punya lu
+global.gambar = 'https://telegra.ph/file/c1a3e368ed230ab11b5f6.jpg' //disini gambar bot nya lu bisa ganti pink gambar ini dengan link gambar punya lu
 global.sc = fs.readFileSync('./media/sc.jpg')
 global.tq = fs.readFileSync('./media/tq.jpg')
 global.menu = fs.readFileSync('./media/menu.jpg')
