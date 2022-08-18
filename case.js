@@ -646,11 +646,11 @@ Jika sudah dipahami rules-nya, silakan ketik *${prefix}menu* untuk memulai!`)
 break
             case 'sc':  case 'sourcecode': {
 	        anu = `
-◦ Script : https://github.com/Nando35/ALYAM
-◦ Script ori : https://github.com/DikaArdnt/ALYA-Morou
+◦ Script : https:sc pervate anj kalo mau beli
+◦ Script ori : https://github.com 
 
 Jangan lupa kasih bintang.
-◦ Donate : 628125284895 (Dana / gopay)
+◦ Donate : 62813181341901 (Dana / gopay)
 ◦ Saweria : https://saweria.co/Nando35
 ◦ Paypal : https://www.paypal.me/Rifando35
 
